@@ -1,3 +1,7 @@
+##  Project Links
+Project Website: https://nyu-code4-canvas.vercel.app/
+
+## Project Info
 Course Discription: 
 Your web browser is a digital canvas for 21st-century artists. While being one of the most common mediums today, web space has infinite possibilities for new aesthetics. This course covers Three.js fundamentals, providing students with the skills and insights to create arts in web 3D. This course requires ICM or equivalent coding experience. Prerequisite: ICM / ICM: Media (ITPG-GT 2233 / ITPG-GT 2048)
 
